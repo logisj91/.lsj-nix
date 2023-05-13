@@ -9,6 +9,10 @@
       catppuccin.catppuccin-vsc
     ];
     userSettings = {
+      "editor.fontFamily" = "'Iosevka Nerd Font Mono', 'Droid Sans Mono', 'monospace', 'monospace'";
+      "editor.fontSize" = 16;
+      "editor.fontWeight" = "Regular";
+      "editor.fontLigatures" = true;
       "git.confirmSync" = false;
       "explorer.confirmDragAndDrop" = false;
       "workbench.colorTheme" = "Catppuccin Macchiato";
