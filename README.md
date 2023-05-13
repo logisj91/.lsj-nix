@@ -25,3 +25,5 @@ ln -s ./home-manager $HOME/.config/home-manager
 # Finally, you want to run an upgrade
 sudo nixos-rebuild switch && home-manager switch
 ```
+
+I'm not going to write out what this config contains, that should be visible via the files.
