@@ -49,6 +49,9 @@ in
 
     # Doom emacs config
     ".config/doom".source = ./dotfiles/doom-emacs;
+
+    # Qutebrowser config
+    ".config/qutebrowser".source = ./dotfiles/qutebrowser;
   };
 
   # This value determines the Home Manager release that your configuration is
