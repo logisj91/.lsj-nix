@@ -12,6 +12,7 @@
       "git.confirmSync" = false;
       "explorer.confirmDragAndDrop" = false;
       "workbench.colorTheme" = "Catppuccin Macchiato";
+      "workbench.iconTheme" = "catppuccin-macchiato";
       "vim.leader" = "<space>";
       "vim.normalModeKeyBindingsNonRecursive" = [
         {
