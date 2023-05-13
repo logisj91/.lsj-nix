@@ -9,6 +9,7 @@
       catppuccin.catppuccin-vsc
     ];
     userSettings = {
+      "git.confirmSync" = false;
       "explorer.confirmDragAndDrop" = false;
       "workbench.colorTheme" = "Catppuccin Macchiato";
       "vim.leader" = "<space>";
